@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ARETE FORGE — Ocean Hazard Reporting Platform (MVP)
 
 Fullstack MVP for SIH25039: crowdsourced ocean hazard reporting with role-based
@@ -68,3 +69,7 @@ npm run dev                # starts on http://localhost:5173
 - For production: move uploaded media to object storage (S3/GCS) instead of
   raw URLs, add rate limiting, and run MongoDB with replica set + indexes
   already defined on `HazardReport`.
+=======
+# ocean-hazard-platform
+Ocean hazard reporting and risk mapping platform
+>>>>>>> a6f3dc7d8169ebf841f2fee70b9f8ee8e01c91f4
