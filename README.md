@@ -2,7 +2,7 @@
 # ARETE FORGE — Ocean Hazard Reporting Platform (MVP)
 
 ## Live Demo: https://ocean-hazard-platform-alpha.vercel.app
-## github Repository: 
+## github Repository: https://github.com/smrity-shreya/ocean-hazard-platform.git
 
 Fullstack MVP for SIH25039: crowdsourced ocean hazard reporting with role-based
 access (User / Analyst / Official), geotagged reports, a live risk map, and
